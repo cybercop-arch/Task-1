@@ -1,6 +1,7 @@
 # Cybersecurity Fundamentals — CIA Triad, Threats & Attack Vectors
 
 **Author:** Samiksha Ganesh Salunke 
+
 **Date:** 2025-10-22
 
 This repository contains concise study notes and resources for core cybersecurity concepts:
